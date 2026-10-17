@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
