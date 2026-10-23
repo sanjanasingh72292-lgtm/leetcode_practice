@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0328-odd-even-linked-list) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
