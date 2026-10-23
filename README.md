@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
