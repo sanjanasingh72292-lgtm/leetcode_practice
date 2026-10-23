@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 ## Array
