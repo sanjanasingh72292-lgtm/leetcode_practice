@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0328-odd-even-linked-list) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
@@ -60,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
