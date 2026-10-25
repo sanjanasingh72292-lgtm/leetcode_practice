@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0207-course-schedule) |
+| [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -145,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
