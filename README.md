@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
 | ------- |
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
