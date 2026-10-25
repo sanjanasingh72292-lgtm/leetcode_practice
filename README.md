@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0011-container-with-most-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
