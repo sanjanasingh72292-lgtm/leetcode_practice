@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
