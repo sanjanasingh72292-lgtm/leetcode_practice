@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
