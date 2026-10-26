@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
 | [0981-time-based-key-value-store](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0981-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Merge Sort
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0981-time-based-key-value-store) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
