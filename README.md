@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0622-design-circular-queue](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [1254-number-of-closed-islands](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Hash Table
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0981-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -260,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/sanjanasingh72292-lgtm/leetcode_practice/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
